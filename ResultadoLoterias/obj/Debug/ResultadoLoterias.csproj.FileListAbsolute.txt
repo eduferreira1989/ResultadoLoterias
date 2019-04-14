@@ -1,0 +1,37 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\bin\Debug\ResultadoLoterias.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\bin\Debug\ResultadoLoterias.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\bin\Debug\ResultadoLoterias.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.Form1.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCLotofacil.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCLotomania.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCMegaSena.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoterias\ResultadoLoterias\obj\Debug\ResultadoLoterias.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\bin\Debug\ResultadoLoterias.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.exe
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\bin\Debug\ResultadoLoterias.exe
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\bin\Debug\ResultadoLoterias.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCLotofacil.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCLotomania.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCMegaSena.resources
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.csprojResolveAssemblyReference.cache
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\bin\Debug\ResultadoLoterias.exe.config
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\bin\Debug\ResultadoLoterias.exe
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\bin\Debug\ResultadoLoterias.pdb
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.Form1.resources
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.Properties.Resources.resources
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCLotofacil.resources
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCLotomania.resources
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.UC.UCMegaSena.resources
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.csproj.GenerateResource.cache
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.csproj.CoreCompileInputs.cache
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.exe
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.pdb
+C:\Users\edufe\source\repos\ResultadoLoteriasMegaLotofacilVersaoFinal\ResultadoLoterias\obj\Debug\ResultadoLoterias.csprojAssemblyReference.cache
