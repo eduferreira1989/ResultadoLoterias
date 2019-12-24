@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ResultadoLoterias
 {
+    // Lotomania class
     public class Lotomania
     {
         //public int MyProperty { get; set; }
